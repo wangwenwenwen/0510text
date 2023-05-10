@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">測試程式</string>
+    <string name="hintname">請輸入姓名</string>
+    <string name="btnsbmbit">確定</string>
+    <string name="welcome">, 您11111好!!!!</string>
+    <string name="sWeight">請輸入體重</string>
+    <string name="sHeight">請輸入身高</string>
+    <string name="gohome">返回主頁</string>
+    <string name="goresult">結果</string>
+    <string name="boy">男生</string>
+    <string name="girl">女生</string>
+</resources>

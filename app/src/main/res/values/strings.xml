@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="hintname">Please input your name..</string>
+    <string name="btnsbmbit">Submit</string>
+    <string name="welcome">, welcome!!</string>
+    <string name="sHeight">Height</string>
+    <string name="sWeight">Weight</string>
+    <string name="gohome">Go Home</string>
+    <string name="goresult">Go Result</string>
+    <string name="boy">Male</string>
+    <string name="girl">Female</string>
+    <string-array name="streak">
+        <item>一分熟</item>
+        <item>五分熟</item>
+        <item>全熟</item>
+    </string-array>
+
+</resources>
